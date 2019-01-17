@@ -2,7 +2,7 @@ const express = require('express');
 
 // const SERVER_CONFIGS = require('../Constants/server');
 
-const port = process.env.PORT || 8080
+const port = 'https://stripe-family-tab.herokuapp.com/'
 
 const configureServer = require('./server');
 const configureRoutes = require('./Routes');
