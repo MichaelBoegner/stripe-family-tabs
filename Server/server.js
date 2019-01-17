@@ -15,8 +15,7 @@ const corsOptions = {
 //   origin: 'https://family-tabs.netlify.com/',
 //   credentials: true
   
-  
-  
+  //
  //     : callback(new Error('Not allowed by CORS'))
 //};
 
